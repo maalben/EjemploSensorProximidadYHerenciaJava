@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sensor Proximidad Y HerenciaJava</string>
+    <string name="title">Conversor de unidades</string>
+    <string name="toCentigrados">A centígrados</string>
+    <string name="toFarenheit">A farenheit</string>
+    <string name="toKelvin">A kelvin</string>
+    <string name="centigrados">Grados centígrados</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
